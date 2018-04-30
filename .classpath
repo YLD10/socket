@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Download/MyEclipse 2017 CI/plugins/org.eclipse.jface.text_3.11.1.v20160819-1517_old.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
